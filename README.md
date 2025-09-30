@@ -16,3 +16,8 @@ Para la práctica, he realizado una escena 3D básica, utilizando exclusivamente
 **6. Utilizar prefabs de *Starter Assets FPS* o *Third Person*.** He agregado a la escena un *jugador* en tercera persona, así como una rampa, del paquete de *Starter Assets Third Person*.
 
 **7. Agregar un script que escriba en la consola la etiqueta y posición de cada objeto que hayas utilizado.** El script en cuestión se encuentra en este repositorio para su comprobación, y los resultados son visibles en la consola en el *gif*, como mencionaba previamente.
+
+
+A continuación, se muestra el *gif* con la prueba:
+
+![Demo de la escena](Lab1-CarolinaAcosta.gif)
